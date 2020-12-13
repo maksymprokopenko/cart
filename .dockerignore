@@ -1,0 +1,5 @@
+# need to be ignored as we will install new dependencies inside the container
+node_modules
+
+# no need to run tests inside the container
+test
